@@ -1,1 +1,23 @@
+point estimation
+statistics
 
+point estimation, in statistics :
+
+the process of finding an approximate value of some parameter—such as the mean (average)—of a population from random samples of the population.
+
+What is the Purpose of Point Estimation? What is a Point Estimator?
+
+Basically point estimators are known to be functions that are used to find an approximate or an estimated value of a population parameter from various random samples of the population.
+
+What is Point Estimation and Interval Estimation?
+
+A point estimate can be defined as a single value estimate of a parameter. For instance, a sample mean is also known to be a point estimate of a population mean.
+
+An interval estimate generally gives you a range of values where the parameter is expected to lie and a confidence interval is the most common type of interval estimate. 
+
+
+Random Sample and Statistic
+
+Random Sample: A set of IID(Independent and Identically distributed) random variables, X1, X2, X3, ——–, Xn defined on the same sample space is called a random sample of size n.
+
+Statistic: A function of a random sample is called a statistic 
